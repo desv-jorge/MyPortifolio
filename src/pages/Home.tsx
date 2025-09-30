@@ -135,7 +135,7 @@ export default function Home() {
                 className="shrink-0" // Impede que a imagem encolha em telas pequenas
             >
                 <img 
-                    src="src\assets\profissional.png" 
+                    src="https://avatars.githubusercontent.com/u/166574575?s=400&u=47cfdf30cc03bc2bab2100abb57f582d836f24e8&v=4" 
                     alt="Minha Foto - Nathanael" 
                     className="w-72 h-72 md:w-80 md:h-80 rounded-full object-cover border-4 border-indigo-500 shadow-2xl" 
                 /> 
